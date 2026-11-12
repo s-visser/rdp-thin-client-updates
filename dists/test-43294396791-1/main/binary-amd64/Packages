@@ -1,0 +1,33 @@
+Package: thinclient
+Version: 0.1.4+selftest
+Architecture: all
+Maintainer: RDP Thin Client <noreply@example.invalid>
+Priority: optional
+Section: misc
+Depends: adduser, sudo, procps, cage, xwayland, libegl-mesa0, libgl1-mesa-dri, freerdp3-x11, python3, python3-gi, gir1.2-gtk-3.0, librsvg2-common, adwaita-icon-theme, fonts-dejavu-core, fonts-open-sans, network-manager, wpasupplicant, dbus-user-session, libpam-systemd, systemd-timesyncd, pipewire-pulse, wireplumber, thinclient-updater, zram-tools, rsync, dosfstools, e2fsprogs, fdisk, efibootmgr, grub-common, grub2-common, zstd, grub-efi-amd64-bin, grub-efi-ia32-bin, plymouth
+Description: RDP thin client kiosk
+ Boots straight into a full-screen sign-in screen that opens a remote desktop
+ session on a fixed server, installs itself from the live USB stick, and keeps
+ the device up to date with nightly unattended updates.
+Filename: pool/main/thinclient_0.1.4+selftest_all.deb
+Size: 52936
+MD5sum: bce2422f155e51e91734d041e9da9c74
+SHA256: f4a5a33bb3dc73ffd1ead55b6cad9c3582f0c6dd3eb807ae0ab0819f363299fc
+
+Package: thinclient-updater
+Version: 0.1.4+selftest
+Architecture: all
+Maintainer: RDP Thin Client <noreply@example.invalid>
+Priority: optional
+Section: misc
+Depends: apt, ca-certificates, unattended-upgrades, procps, util-linux, systemd, sudo
+Description: Over-the-air updates for the RDP thin client
+ Installs Debian and thin client updates every night, checks the thin client
+ update channel every 15 minutes for quick and emergency updates, and restarts
+ the device when nobody is using a remote desktop session (an emergency update
+ ends the session first).
+Filename: pool/main/thinclient-updater_0.1.4+selftest_all.deb
+Size: 6432
+MD5sum: d4fd1b48c53059be046012db994a7384
+SHA256: 9b2a7abe6f5f79bd284f61228238d409fc2e9719205e54b12593bb0ca1253eeb
+
