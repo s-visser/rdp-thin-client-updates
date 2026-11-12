@@ -5,20 +5,20 @@ Origin: rdp-thinclient
 Label: RDP thin client
 Suite: pilot
 Codename: pilot
-Date: Thu, 12 Nov 2026 18:09:31 +0000
+Date: Thu, 12 Nov 2026 18:34:11 +0000
 Architectures: amd64
 Components: main
 Description: RDP thin client updates (pilot)
 MD5Sum:
- 692b49dc66cdeb345a1c9afb58396633 1704 main/binary-amd64/Packages
- 33b0a53e786067b0e7a87608593c14af 913 main/binary-amd64/Packages.gz
+ d6e2e844260cf2011f8e80cfd9eeccb2 1749 main/binary-amd64/Packages
+ a45d83f9ca7f2e50c8c855b9e7da32af 933 main/binary-amd64/Packages.gz
 SHA256:
- 07478c1e5d8c09ec80fe8ef8ebb467cde4f89173790b7bb260b41b339b924cf8 1704 main/binary-amd64/Packages
- 566148f0cbb549590d36feb2c2dc3f1b09ab237d048ff0c16c9950d3295e7916 913 main/binary-amd64/Packages.gz
+ 2012ae3ce75ce3049bb297346a8b64fef8b5949b63df1c702fe91e11e1cfaa2f 1749 main/binary-amd64/Packages
+ 9e39b4da3bc6dfcdee921af0376bcbce50728311d14723092a0f6601560239ad 933 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSwfuwcsD1a1U5duYtdbt4G1jU52wUCavYA2wAKCRBdbt4G1jU5
-25w4AQDMd56fqcdEj5IHZ9LQH6dM3QCc394PfyZ6teS1QFMXIwEA/883/SiebjZW
-njyIVHFWUzHUDZ57mKu7zd/mWMNcIwQ=
-=zCK+
+iHUEARYKAB0WIQSwfuwcsD1a1U5duYtdbt4G1jU52wUCavYGowAKCRBdbt4G1jU5
+235oAP4icfDqrTh62RYD7HAK+C1aYilo13pIMf5psG9U5/vfyAEAtktF4QLN9Rsa
+faXEi+6GiwAt/6pbrjmvrwrWRbMmOQo=
+=zp5O
 -----END PGP SIGNATURE-----

@@ -1,5 +1,5 @@
 Package: thinclient
-Version: 0.1.1
+Version: 0.1.1+main46
 Architecture: all
 Maintainer: RDP Thin Client <noreply@example.invalid>
 Priority: optional
@@ -9,24 +9,24 @@ Description: RDP thin client kiosk
  Boots straight into a full-screen sign-in screen that opens a remote desktop
  session on a fixed server, installs itself from the live USB stick, and keeps
  the device up to date with nightly unattended updates.
-Filename: pool/main/thinclient_0.1.1_all.deb
-Size: 51436
-MD5sum: ae1111cfe1b14b6c40e778629ec28ba1
-SHA256: 3ae8e60da56f3a656adbdc3d3a79958fa089cf5fb2222ec1f5fbc83623aa5452
+Filename: pool/main/thinclient_0.1.1+main46_all.deb
+Size: 51452
+MD5sum: e0a9243ed01433a88ed13680764bc469
+SHA256: ff844b4a78208804a23ec3a37f97b89421610fbe5ec45bc0d72399b568573cd2
 
 Package: thinclient-updater
-Version: 0.1.1
+Version: 0.1.1+main46
 Architecture: all
 Maintainer: RDP Thin Client <noreply@example.invalid>
 Priority: optional
 Section: misc
-Depends: apt, unattended-upgrades, procps, util-linux, systemd, sudo
+Depends: apt, ca-certificates, unattended-upgrades, procps, util-linux, systemd, sudo
 Description: Over-the-air updates for the RDP thin client
  Installs Debian and thin client updates every night, checks the thin client
  update channel every 15 minutes for emergency updates, and restarts the
  device only when nobody is using a remote desktop session.
-Filename: pool/main/thinclient-updater_0.1.1_all.deb
-Size: 5668
-MD5sum: 6def7303781d4539eb2feb39ffcc8df9
-SHA256: 45f07295e9a571138630b284a2ceec19950e6c1d54002247475117e4c46c9c25
+Filename: pool/main/thinclient-updater_0.1.1+main46_all.deb
+Size: 5684
+MD5sum: e521c6f1c08b6a518ddb82f1d742d5aa
+SHA256: a0dd83ab6048584bd3414046d5d03cb6ddd036b38e5d436f4f0707291dcccb45
 
