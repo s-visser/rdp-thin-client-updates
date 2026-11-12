@@ -2,14 +2,14 @@ Origin: rdp-thinclient
 Label: RDP thin client
 Suite: stable
 Codename: stable
-Date: Thu, 12 Nov 2026 19:21:21 +0000
+Date: Thu, 12 Nov 2026 20:04:48 +0000
 Architectures: amd64
 Components: main
 Description: RDP thin client updates (stable)
 Thinclient-Emergency: 20261112T192121Z
 MD5Sum:
- 8ece5d67645f4b33675eaee6d1ce54c7 1772 main/binary-amd64/Packages
- a7a5f6fd8be1e77ee667fdff695f8e83 945 main/binary-amd64/Packages.gz
+ 79bf488f771818deb47c96412ca795e8 1772 main/binary-amd64/Packages
+ 9c0928191348d11ebd1552624c59c554 944 main/binary-amd64/Packages.gz
 SHA256:
- 12151916630aaf81ad5af410617d12d9b1558755aa95c21bfdd36c4bbe41b423 1772 main/binary-amd64/Packages
- 846edf2fe9ed52c5dde115956f43e2d1cc6cb296299f198051ce584787f1c762 945 main/binary-amd64/Packages.gz
+ f959ee1701195bf96f8c8ff646aec95ed831feb13193e7023020e94e631cfff9 1772 main/binary-amd64/Packages
+ d45f8e711c73940daefa062d5eca09a5d081aef393919d2233e2cb38d2f499a3 944 main/binary-amd64/Packages.gz
