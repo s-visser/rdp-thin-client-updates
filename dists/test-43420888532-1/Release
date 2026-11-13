@@ -1,0 +1,14 @@
+Origin: rdp-thinclient
+Label: RDP thin client
+Suite: test-43420888532-1
+Codename: test-43420888532-1
+Date: Fri, 13 Nov 2026 12:04:33 +0000
+Architectures: amd64
+Components: main
+Description: RDP thin client updates (test-43420888532-1)
+MD5Sum:
+ 19e525235d6c0909d1185683293b7ec1 1808 main/binary-amd64/Packages
+ faddd18a1040ba7c06007febce7e451d 953 main/binary-amd64/Packages.gz
+SHA256:
+ 2bd667fe510a45dff170e70bb7b4ba57f5a894d4c790c79d7aa07dbf5527fcc6 1808 main/binary-amd64/Packages
+ bc1912097bdfb6080f2df96dcc912fbef59f39ec5cd23a9d13bc21aebd32bfdd 953 main/binary-amd64/Packages.gz
