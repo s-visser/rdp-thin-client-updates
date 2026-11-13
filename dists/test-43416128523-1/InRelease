@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: rdp-thinclient
+Label: RDP thin client
+Suite: test-43416128523-1
+Codename: test-43416128523-1
+Date: Fri, 13 Nov 2026 11:28:04 +0000
+Architectures: amd64
+Components: main
+Description: RDP thin client updates (test-43416128523-1)
+MD5Sum:
+ b7bbdbbd0d8b5854804e56a82aaf7d53 1836 main/binary-amd64/Packages
+ bbb634a986e93b1d1d38962280e34494 957 main/binary-amd64/Packages.gz
+SHA256:
+ 9e0383a490716e9078078164ea9a98e67ac0800dd01a84049dd048b544729a1e 1836 main/binary-amd64/Packages
+ db00d8550a068b151838ee29a4f1d54db6bcd5663279f8f4f5747ef1bd6d1e3d 957 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSwfuwcsD1a1U5duYtdbt4G1jU52wUCavb0RAAKCRBdbt4G1jU5
+292dAP4uOWpurZhnZ3lwXGrkxmFLC8nIszqbPb5v+VS4lzKrvwD9EwT5uyCMDZgP
+j2hHm7RxCsEXi8DsZaICFfCs9Rd0GwQ=
+=xCXp
+-----END PGP SIGNATURE-----
