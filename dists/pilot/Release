@@ -2,14 +2,14 @@ Origin: rdp-thinclient
 Label: RDP thin client
 Suite: pilot
 Codename: pilot
-Date: Fri, 13 Nov 2026 11:44:18 +0000
+Date: Fri, 13 Nov 2026 12:09:52 +0000
 Architectures: amd64
 Components: main
 Description: RDP thin client updates (pilot)
 Thinclient-Emergency: 20261112T192121Z
 MD5Sum:
- a22679ea4729aad42b7d5efb174026db 1800 main/binary-amd64/Packages
- a6267817cccda29833966576e023187b 949 main/binary-amd64/Packages.gz
+ d504df3f66439826b1d335432051133d 1772 main/binary-amd64/Packages
+ 254ec90b1144962566e8a958f3aebebd 941 main/binary-amd64/Packages.gz
 SHA256:
- 126dd769062decb96d1f77a9ec889438a9f148f2eba7859137cb8b1459bfef8e 1800 main/binary-amd64/Packages
- efe8539a905b1e80e022fa1151176cc8e8cd21becb719c89c9c265d1f15c41a9 949 main/binary-amd64/Packages.gz
+ a9aff97efb3e44ec9d06bd39f6ead1add3923c242c9401d54261a6c56b0a17c1 1772 main/binary-amd64/Packages
+ ad523d981aff0ee52f334796126e32e2663c63f82127949abff8e00bde40e1f3 941 main/binary-amd64/Packages.gz
