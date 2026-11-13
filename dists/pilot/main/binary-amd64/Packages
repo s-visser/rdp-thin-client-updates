@@ -1,5 +1,5 @@
 Package: thinclient
-Version: 0.1.4+main58
+Version: 0.1.4+main59
 Architecture: all
 Maintainer: RDP Thin Client <noreply@example.invalid>
 Priority: optional
@@ -9,13 +9,13 @@ Description: RDP thin client kiosk
  Boots straight into a full-screen sign-in screen that opens a remote desktop
  session on a fixed server, installs itself from the live USB stick, and keeps
  the device up to date with nightly unattended updates.
-Filename: pool/main/thinclient_0.1.4+main58_all.deb
-Size: 52940
-MD5sum: 8f4cb309ab85435bdfd4ade1f6f89346
-SHA256: 2b6b18c983044cc999ad0d8f93bc4739454951caf7c1e37a9588ca86c4de781f
+Filename: pool/main/thinclient_0.1.4+main59_all.deb
+Size: 52920
+MD5sum: 99df7bee55922e8219779b3c9fc41935
+SHA256: 95a3a60e45b142552e6115bd365cb8a745a9b24047f723a74b74ffd820cdde51
 
 Package: thinclient-updater
-Version: 0.1.4+main58
+Version: 0.1.4+main59
 Architecture: all
 Maintainer: RDP Thin Client <noreply@example.invalid>
 Priority: optional
@@ -26,8 +26,8 @@ Description: Over-the-air updates for the RDP thin client
  update channel every 15 minutes for quick and emergency updates, and restarts
  the device when nobody is using a remote desktop session (an emergency update
  ends the session first).
-Filename: pool/main/thinclient-updater_0.1.4+main58_all.deb
-Size: 6480
-MD5sum: 638db9059165c13379235d4acb60f734
-SHA256: 4beaa223b697e7a1d1c82098b14311d1a02e524f608b6bb9165742c5bb319fbf
+Filename: pool/main/thinclient-updater_0.1.4+main59_all.deb
+Size: 6476
+MD5sum: 92c61daef2b8fb0df018abfe38b4c20d
+SHA256: 4c8a48d046a891e5ab0c80fa4c89ebb7860caca3938864dfabd6cd8f1d035a55
 
